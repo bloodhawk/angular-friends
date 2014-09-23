@@ -21,7 +21,7 @@ app.controller('FriendController', function($scope){
             "name": "Houston, Texas"
         },
         "status": null,
-        "friend_count": "628",
+        "friend_count": 628,
         "$$hashKey": "005"
     },
     {
@@ -38,7 +38,7 @@ app.controller('FriendController', function($scope){
             "name": "New York, New York"
         },
         "status": null,
-        "friend_count": "994",
+        "friend_count": 994,
         "$$hashKey": "008"
     },
     {
@@ -60,7 +60,7 @@ app.controller('FriendController', function($scope){
             "status_id": "10101839870247153",
             "comment_count": "0"
         },
-        "friend_count": "268",
+        "friend_count": 268,
         "$$hashKey": "009"
     },
     {
@@ -82,7 +82,7 @@ app.controller('FriendController', function($scope){
             "status_id": "10102928220609321",
             "comment_count": "0"
         },
-        "friend_count": "549",
+        "friend_count": 549,
         "$$hashKey": "00I"
     },
     {
@@ -99,7 +99,7 @@ app.controller('FriendController', function($scope){
             "name": "Tempe, Arizona"
         },
         "status": null,
-        "friend_count": "249",
+        "friend_count": 249,
         "$$hashKey": "00K"
     },
     {
@@ -112,7 +112,7 @@ app.controller('FriendController', function($scope){
             "status_id": "10102919605598871",
             "comment_count": "0"
         },
-        "friend_count": "393",
+        "friend_count": 393,
         "$$hashKey": "00N"
     },
     {
@@ -120,7 +120,7 @@ app.controller('FriendController', function($scope){
         "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash1/372639_10054231_314184666_q.jpg",
         "current_location": null,
         "status": null,
-        "friend_count": "928",
+        "friend_count": 928,
         "$$hashKey": "00O"
     },
     {
@@ -142,7 +142,7 @@ app.controller('FriendController', function($scope){
             "status_id": "10102250529407922",
             "comment_count": "0"
         },
-        "friend_count": "614",
+        "friend_count": 614,
         "$$hashKey": "010"
     },
     {
@@ -150,7 +150,7 @@ app.controller('FriendController', function($scope){
         "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/161103_10123983_1859311604_q.jpg",
         "current_location": null,
         "status": null,
-        "friend_count": "1427",
+        "friend_count": 1427,
         "$$hashKey": "011"
     },
     {
@@ -167,7 +167,7 @@ app.controller('FriendController', function($scope){
             "name": "Tucson, Arizona"
         },
         "status": null,
-        "friend_count": "376",
+        "friend_count": 376,
         "$$hashKey": "013"
     },
     {
@@ -175,7 +175,7 @@ app.controller('FriendController', function($scope){
         "pic_square": "https://fbcdn-profile-a.akamaihd.net/static-ak/rsrc.php/v2/yo/r/UlIqmHJn-SK.gif",
         "current_location": null,
         "status": null,
-        "friend_count": "79",
+        "friend_count": 79,
         "$$hashKey": "01D"
     },
     {
@@ -192,7 +192,7 @@ app.controller('FriendController', function($scope){
             "name": "Cambridge, Massachusetts"
         },
         "status": null,
-        "friend_count": "527",
+        "friend_count": 527,
         "$$hashKey": "01M"
     },
     {
@@ -200,7 +200,7 @@ app.controller('FriendController', function($scope){
         "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/372513_17802226_425948030_q.jpg",
         "current_location": null,
         "status": null,
-        "friend_count": "1885",
+        "friend_count": 1885,
         "$$hashKey": "01P"
     },
     {
@@ -217,7 +217,7 @@ app.controller('FriendController', function($scope){
             "name": "Pearland, Texas"
         },
         "status": null,
-        "friend_count": "185",
+        "friend_count": 185,
         "$$hashKey": "01Q"
     },
     {
@@ -234,7 +234,7 @@ app.controller('FriendController', function($scope){
             "name": "Ardmore, Oklahoma"
         },
         "status": null,
-        "friend_count": "708",
+        "friend_count": 708,
         "$$hashKey": "01R"
     },
     {
@@ -251,7 +251,7 @@ app.controller('FriendController', function($scope){
             "name": "Provo, Utah"
         },
         "status": null,
-        "friend_count": "555",
+        "friend_count": 555,
         "$$hashKey": "01U"
     },
     {
@@ -273,7 +273,7 @@ app.controller('FriendController', function($scope){
             "status_id": "10101094816311309",
             "comment_count": "0"
         },
-        "friend_count": "366",
+        "friend_count": 366,
         "$$hashKey": "01W"
     },
     {
@@ -290,7 +290,7 @@ app.controller('FriendController', function($scope){
             "name": "Provo, Utah"
         },
         "status": null,
-        "friend_count": "518",
+        "friend_count": 518,
         "$$hashKey": "027"
     },
     {
@@ -307,7 +307,7 @@ app.controller('FriendController', function($scope){
             "name": "American Fork, Utah"
         },
         "status": null,
-        "friend_count": "482",
+        "friend_count": 482,
         "$$hashKey": "029"
     },
     {
@@ -329,7 +329,7 @@ app.controller('FriendController', function($scope){
             "status_id": "10101102301306319",
             "comment_count": "0"
         },
-        "friend_count": "665",
+        "friend_count": 665,
         "$$hashKey": "02B"
     },
     {
@@ -346,7 +346,7 @@ app.controller('FriendController', function($scope){
             "name": "Lehi, Utah"
         },
         "status": null,
-        "friend_count": "579",
+        "friend_count": 579,
         "$$hashKey": "02C"
     },
     {
@@ -363,7 +363,7 @@ app.controller('FriendController', function($scope){
             "name": "Salt Lake City, Utah"
         },
         "status": null,
-        "friend_count": "658",
+        "friend_count": 658,
         "$$hashKey": "02F"
     },
     {
@@ -376,7 +376,7 @@ app.controller('FriendController', function($scope){
             "status_id": "10101099840792209",
             "comment_count": "0"
         },
-        "friend_count": "690",
+        "friend_count": 690,
         "$$hashKey": "02G"
     },
     {
@@ -398,7 +398,7 @@ app.controller('FriendController', function($scope){
             "status_id": "10101098585343139",
             "comment_count": "0"
         },
-        "friend_count": "707",
+        "friend_count": 707,
         "$$hashKey": "02H"
     },
     {
@@ -415,7 +415,7 @@ app.controller('FriendController', function($scope){
             "name": "Ann Arbor, Michigan"
         },
         "status": null,
-        "friend_count": "1167",
+        "friend_count": 1167,
         "$$hashKey": "02I"
     },
     {
@@ -440,7 +440,7 @@ app.controller('FriendController', function($scope){
         "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/195517_17816894_384186_q.jpg",
         "current_location": null,
         "status": null,
-        "friend_count": "350",
+        "friend_count": 350,
         "$$hashKey": "02P"
     },
     {
@@ -448,7 +448,7 @@ app.controller('FriendController', function($scope){
         "pic_square": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-prn1/173707_17818839_4084230_q.jpg",
         "current_location": null,
         "status": null,
-        "friend_count": "855",
+        "friend_count": 855,
         "$$hashKey": "02U"
     }
 ]
